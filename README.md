@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **racherlaKrishnaPrasad4241@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U2RGh_j4LlVH3X2IwvXeV9mZVTLv2D0q/view?usp=sharing](https://drive.google.com/file/d/1U2RGh_j4LlVH3X2IwvXeV9mZVTLv2D0q/view?usp=sharing)
+- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1U2RGh_j4LlVH3X2IwvXeV9mZVTLv2D0q/view?usp=sharing">**Resume**<i class="fas fa-envelope"></i></a>
 
 - ⚡ Fun fact **I enjoy turning complex problems into simple and efficient solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/racherla krishna prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="racherla krishna prasad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/racherla-krishna-prasad-1337b1245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="racherla krishna prasad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
